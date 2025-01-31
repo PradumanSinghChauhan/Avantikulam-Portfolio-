@@ -121,13 +121,14 @@
   grid-template-columns: 1fr 1fr;
 }
 .img{
-  margin-top:100px;
+  margin-top:80px;
   align-content: end;
   align-items:end;
   justify-content: end;
   justify-items: end;
   height:500px; 
   margin-left:40px;
+  margin-bottom:10px;
 }
 .down-body{
   background-color:gray;
